@@ -1,4 +1,0 @@
-asdfnijqenfjndnmve
-exit
-:q
-exit()
